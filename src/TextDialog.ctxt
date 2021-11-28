@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=TextDialog
+comment1.params=owner
+comment1.target=TextDialog(java.awt.Frame)
+comment10.params=
+comment10.target=java.awt.Color\ getColor()
+comment11.params=f
+comment11.target=int\ showCustomDialog(java.awt.Frame)
+comment12.params=arg0
+comment12.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment2.params=e
+comment2.target=void\ insertUpdate(javax.swing.event.DocumentEvent)
+comment3.params=e
+comment3.target=void\ removeUpdate(javax.swing.event.DocumentEvent)
+comment4.params=e
+comment4.target=void\ changedUpdate(javax.swing.event.DocumentEvent)
+comment5.params=
+comment5.target=java.awt.Font\ getFont()
+comment6.params=
+comment6.target=java.lang.String\ getText()
+comment7.params=
+comment7.target=int\ getInputSize()
+comment8.params=ae
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=
+comment9.target=void\ update()
+numComments=13

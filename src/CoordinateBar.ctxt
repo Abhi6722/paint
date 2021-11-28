@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CoordinateBar
+comment1.params=
+comment1.target=CoordinateBar()
+comment2.params=
+comment2.target=javax.swing.JLabel\ getCoordinates()
+comment3.params=
+comment3.target=javax.swing.JLabel\ getFrameSize()
+comment4.params=
+comment4.target=javax.swing.JToolBar\ getCoordinateBar()
+numComments=5

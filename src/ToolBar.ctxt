@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ToolBar
+comment1.params=frame
+comment1.target=ToolBar(DrawFrame)
+comment10.params=f
+comment10.target=void\ saveFile(java.io.File)
+comment11.params=panel
+comment11.target=java.awt.image.BufferedImage\ makePanel(javax.swing.JPanel)
+comment2.params=
+comment2.target=void\ initializeToolBar()
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=javax.swing.JToolBar\ getToolBar()
+comment5.params=width\ height
+comment5.target=void\ setDimensions(int,\ int)
+comment6.params=
+comment6.target=void\ newFile()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=f
+comment9.target=void\ openFile(java.io.File)
+numComments=12
